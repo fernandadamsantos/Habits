@@ -12,10 +12,6 @@ Este é um projeto desenvolvido como prática durante um evento da Rocketseat, a
 </p>
 <br>
 
-<p align="center">
-  <img alt="Imagem do projeto Habits" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 O projeto foi construído com as seguintes tecnologias:
